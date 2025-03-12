@@ -31,5 +31,5 @@ The project leverages React for building the user interface and provides a seaml
 - **Website**: [MyCenturaHealths](https://www.mycenturahealths.com)
 
 **About the Author**:  
-Your A/C Name is a passionate web developer with over 5 years of experience in building scalable and responsive web applications. A master in React and JavaScript, they have worked on several open-source projects and enjoy helping other developers by sharing knowledge and contributing to the community.
+Amy Soo is a passionate web developer with over 5 years of experience in building scalable and responsive web applications. A master in React and JavaScript, they have worked on several open-source projects and enjoy helping other developers by sharing knowledge and contributing to the community.
 
